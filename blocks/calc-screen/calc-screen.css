@@ -1,0 +1,9 @@
+.calc-screen {
+    height: 125px;
+    /* padding: 18px; */
+    position: relative;
+    padding: 10px;
+    display: grid;
+    justify-items: end;
+    align-items: end;
+}

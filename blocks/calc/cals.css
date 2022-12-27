@@ -1,0 +1,13 @@
+.calc {
+    width: 300px;
+    height: 500px;
+    border: 1px solid #000;
+    margin: 50px auto;
+    background: #000;
+    border-radius: 20px;
+    color: #fdfdfd;
+    font-family: Arial;
+    display: grid;
+    padding: 18px;
+    box-shadow: 4px 4px 6px #4f4f4f;
+}

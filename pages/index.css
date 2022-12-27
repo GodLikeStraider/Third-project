@@ -1,0 +1,36 @@
+/*Start calc*/
+@import url(../blocks/calc/cals.css);
+
+/*Start calc-screen*/
+@import url(../blocks/calc-screen/calc-screen.css);
+@import url(../blocks/calc-screen/__subtitle/calc-screen__subtitle.css);
+
+
+/*Start buttons*/
+@import url(../blocks/buttons/buttons.css);
+@import url(../blocks/buttons/__ac/buttons__ac.css);
+@import url(../blocks/buttons/__btn/buttons__btn.css);
+@import url(../blocks/buttons/__division/buttons__division.css);
+@import url(../blocks/buttons/__dot/buttons__dot.css);
+@import url(../blocks/buttons/__eigth/buttons__eigth.css);
+@import url(../blocks/buttons/__equal/buttons__equal.css);
+@import url(../blocks/buttons/__five/buttons__five.css);
+@import url(../blocks/buttons/__four/buttons__four.css);
+@import url(../blocks/buttons/__minus/buttons__minus.css);
+@import url(../blocks/buttons/__myltiply/buttons__multiply.css);
+@import url(../blocks/buttons/__nine/buttons__nine.css);
+@import url(../blocks/buttons/__one/buttons__one.css);
+@import url(../blocks/buttons/__percent/buttons__percent.css);
+@import url(../blocks/buttons/__plus-minus/buttons__plus-minus.css);
+@import url(../blocks/buttons/__plus/buttons__plus.css);
+@import url(../blocks/buttons/__seven/buttons__seven.css);
+@import url(../blocks/buttons/__six/buttons__six.css);
+@import url(../blocks/buttons/__three/buttons__three.css);
+@import url(../blocks/buttons/__two/buttons__two.css);
+@import url(../blocks/buttons/__zero/buttons__zero.css);
+
+
+/*Start background*/
+@import url(../blocks/background/background-grey-dark/background-grey-dark.css);
+@import url(../blocks/background/background-grey/background-grey.css);
+@import url(../blocks/background/background-orange/background-orange.css);

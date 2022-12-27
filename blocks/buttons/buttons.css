@@ -1,0 +1,13 @@
+.buttons {
+    display: grid;
+    grid-template-areas: 
+    "ac plus-minus percent division"
+    "seven eigth nine multi"
+    "four five siz minus"
+    "one two three plus"
+    "zero zero dot equal";
+    grid-gap: 7px;
+    /* padding: 10px; */
+    justify-items: center;
+    align-items: center;
+}
