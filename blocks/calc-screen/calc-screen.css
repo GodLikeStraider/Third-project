@@ -6,4 +6,5 @@
     display: grid;
     justify-items: end;
     align-items: end;
+    overflow: hidden;
 }
